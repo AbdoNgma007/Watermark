@@ -4,4 +4,3 @@ Tired of adding watermarks manually? This video introduces you to a powerful and
 <img src="screen_2.png" style="margin-top: 10px;" />
 <img src="screen_3.png" style="margin-top: 10px;" />
 <img src="screen_4.png" style="margin-top: 10px;" />
-<img src="screen_1.png" style="margin-top: 10px;" />
